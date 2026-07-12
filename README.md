@@ -120,7 +120,8 @@ The Power BI dashboard includes:
 Clone the repository.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/folushooludare33-droid/AI-Customer-Communications-Analytics.git
+cd AI-Customer-Communications-Analytics
 ```
 
 Create and activate a virtual environment.
